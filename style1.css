@@ -53,13 +53,13 @@ body{
     width:170px;
  }
 .weather h1{
-    font-size:80px;
+    font-size:70px;
     font-weight:500;
 }
 .weather h2{
-    font-size:45px;
+    font-size:40px;
     font-weight:400;
-    margin-top:-10px;
+    margin-top:-5px;
 }
 .details{
     display:flex;
